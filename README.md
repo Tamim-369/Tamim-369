@@ -6,6 +6,6 @@ I am a passionate web developer. I love to code and solve complex problems and b
 
 Skills:   HTML / CSS / JS / REACT / EXPRESS / MONGODB / PYTHON / MYSQL
 
-- 🌱 I’m currently learning NEXT JS 
+
 
 
