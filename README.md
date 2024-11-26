@@ -9,18 +9,4 @@ Skills:   HTML / CSS / JS / REACT / EXPRESS / MONGODB / PYTHON / MYSQL
 
 
 
-## 🚀 Current stats
-<table align="center" style="width: 100%; padding: 0;">
-  <tr>
-    <td>
-      <a href="https://github.com/Tamim-369/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamim-369&theme=react&border=61dafb&hide_border=true" alt="Tamim-369" />
-      </a>
-    </td>
-    <td>
-      <a href="#" title="Go to Source">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Tamim-369&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+
